@@ -1,19 +1,19 @@
 // remove an element from an array
+
+import java.util.Arrays;
+
 public class removAnElement {
     public static void main(String[] args) {
-        int arr[] = { 1, 2, 3, 4, 5 };
-        int num = 2;
-        int brr[] = new int[arr.length - 1];
-        for (int i = 0; i < brr.length; i++) {
-            if (i!=num) {
-                brr[i] = arr[i];
-            }
-            else{
-                i--;
+        int arr[] = { 10,20,30};
+        int brr[]=new int[arr.length-1];
+        int num = 20;
+        int j=0;
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i]!=num) {
+                brr[j] = arr[i];
+                j++;
             }
         }
-        for (int i : brr) {
-            System.out.println(i);
-        }
+        System.out.println(Arrays.toString(brr));
     }
 }
