@@ -1,5 +1,5 @@
-//  remove an index from an ayyar
-public class p8 {
+//  remove an index from an array
+public class removeAnIndex {
     public static void main(String[] args) {
         int arr[] = { 1, 2, 3, 4, 5 };
         int num = 2;

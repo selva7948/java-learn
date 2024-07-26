@@ -1,5 +1,5 @@
 //find the max and second max
-public class p11 {
+public class secondMax {
     public static void main(String[] args) {
         int arr[] = { 1, 5, 3, 1, 3 };
         int max = arr[0];

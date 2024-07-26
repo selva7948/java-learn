@@ -1,16 +1,14 @@
 //fid the least diffrence 
-public class p10 {
+public class diffrence {
     public static void main(String[] args) {
         int arr[]={1,5,3,1,3};
-        int min=1000;
+        int min=Integer.MAX_VALUE;
+        int min2 =Integer.MAX_VALUE;
         for(int i=0;i<arr.length;i++){
             if(arr[i]<min){
                 min=arr[i];
             }
-        }
-        int min2 =1000;
-        for(int i=0;i<arr.length;i++){
-            if(arr[i]<min2 && arr[i] != min){
+            else if(arr[i]<min2 && arr[i] != min){
                 min2=arr[i];
             }
         }

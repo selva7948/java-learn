@@ -1,5 +1,5 @@
 // find the occurancy of the elemenys in the array
-public class p6 {
+public class occurancy{
     public static void main(String[] args) {
         int arr[] = { 1, 2, 3, 4, 6, 8,2, 5 };
         int max = arr[0];

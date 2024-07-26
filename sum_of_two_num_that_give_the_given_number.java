@@ -1,5 +1,5 @@
-// find the sum of two num that give the given nnumber
-public class p7 {
+// find the sum of two num that give the given number
+public class sum_of_two_num_that_give_the_given_number {
     public static void main(String[] args) {
         int arr[] = { 1, 3, 2, 4, 5, 6 };
         int num = 6;
@@ -11,4 +11,6 @@ public class p7 {
             }
         }
     }
+
+    
 }

@@ -1,5 +1,5 @@
 // merging two arrays
-public class p4 {
+public class merging_two_arrays {
     public static void main(String[] args) {
         int[] arr = { 1, 2, 3 };
         int brr[] = { 4, 5, 6 };

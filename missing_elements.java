@@ -1,5 +1,5 @@
 // find the missing elements in an array
-public class p5 {
+public class missing_elements {
     public static void main(String[] args) {
         int arr[] = { 11, 2, 5, 7, 10, 6, 1, 13 };
         for (int k = 0; k < arr.length; k++) {
