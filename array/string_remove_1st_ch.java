@@ -1,3 +1,4 @@
+package array;
 public class string_remove_1st_ch {
     public static void main(String[] args) {
         String s="abcadydbajh";

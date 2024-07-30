@@ -1,3 +1,4 @@
+package array;
 // shorting an array
 public class shorting {
     public static void main(String[] args) {

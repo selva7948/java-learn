@@ -1,3 +1,4 @@
+package array;
 //  remove an index from an array
 public class removeAnIndex {
     public static void main(String[] args) {

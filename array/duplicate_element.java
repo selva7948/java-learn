@@ -1,3 +1,4 @@
+package array;
 // find the duplicate element
 public class duplicate_element {
     public static void main(String[] args) {

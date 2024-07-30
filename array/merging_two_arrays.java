@@ -1,3 +1,4 @@
+package array;
 // merging two arrays
 public class merging_two_arrays {
     public static void main(String[] args) {

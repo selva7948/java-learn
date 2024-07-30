@@ -1,3 +1,4 @@
+package array;
 //fid the least diffrence 
 public class diffrence {
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package array;
 // find the occurancy of the elemenys in the array
 public class occurancy{
     public static void main(String[] args) {

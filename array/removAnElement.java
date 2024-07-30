@@ -1,3 +1,4 @@
+package array;
 // remove an element from an array
 
 import java.util.Arrays;

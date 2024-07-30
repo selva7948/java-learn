@@ -1,3 +1,4 @@
+package array;
 import java.util.Arrays;
 
 public class print_unique_elements {

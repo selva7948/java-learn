@@ -1,3 +1,4 @@
+package array;
 //  creating a calculator 
 import java.util.*;
 

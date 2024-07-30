@@ -1,3 +1,4 @@
+package array;
 //find the max and second max
 public class secondMax {
     public static void main(String[] args) {

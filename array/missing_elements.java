@@ -1,3 +1,4 @@
+package array;
 // find the missing elements in an array
 public class missing_elements {
     public static void main(String[] args) {
