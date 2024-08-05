@@ -1,4 +1,5 @@
 {
     "files.autoSave": "afterDelay",
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "cSpell.words": []
 }

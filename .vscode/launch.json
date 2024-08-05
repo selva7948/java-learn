@@ -1,0 +1,252 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "calculater",
+            "request": "launch",
+            "mainClass": "array.calculater",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "diffrence",
+            "request": "launch",
+            "mainClass": "array.diffrence",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "duplicate_element",
+            "request": "launch",
+            "mainClass": "array.duplicate_element",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "largest_in_k",
+            "request": "launch",
+            "mainClass": "array.largest_in_k",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "merging_two_arrays",
+            "request": "launch",
+            "mainClass": "array.merging_two_arrays",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "missing_elements",
+            "request": "launch",
+            "mainClass": "array.missing_elements",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "occurancy",
+            "request": "launch",
+            "mainClass": "array.occurancy",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "print_unique_elements",
+            "request": "launch",
+            "mainClass": "array.print_unique_elements",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "removAnElement",
+            "request": "launch",
+            "mainClass": "array.removAnElement",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "removeAnIndex",
+            "request": "launch",
+            "mainClass": "array.removeAnIndex",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "array.reverse",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "secondMax",
+            "request": "launch",
+            "mainClass": "array.secondMax",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "shorting",
+            "request": "launch",
+            "mainClass": "array.shorting",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "store_missing_element",
+            "request": "launch",
+            "mainClass": "array.store_missing_element",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "string_remove_1st_ch",
+            "request": "launch",
+            "mainClass": "array.string_remove_1st_ch",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "sum_of_two_num_that_give_the_given_number",
+            "request": "launch",
+            "mainClass": "array.sum_of_two_num_that_give_the_given_number",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "swap_even_index",
+            "request": "launch",
+            "mainClass": "array.swap_even_index",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "arlist",
+            "request": "launch",
+            "mainClass": "collection.arlist",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "convert_to_binary",
+            "request": "launch",
+            "mainClass": "string.convert_to_binary",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "duplicate_string",
+            "request": "launch",
+            "mainClass": "string.duplicate_string",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "int_to_string",
+            "request": "launch",
+            "mainClass": "string.int_to_string",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "palindrom",
+            "request": "launch",
+            "mainClass": "string.palindrom",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "pangram",
+            "request": "launch",
+            "mainClass": "string.pangram",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "replace_a_string",
+            "request": "launch",
+            "mainClass": "string.replace_a_string",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "replace_string",
+            "request": "launch",
+            "mainClass": "string.replace_string",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "reverse_a_sentence",
+            "request": "launch",
+            "mainClass": "string.reverse_a_sentence",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "reverse_a_string",
+            "request": "launch",
+            "mainClass": "string.reverse_a_string",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "short_a_string",
+            "request": "launch",
+            "mainClass": "string.short_a_string",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "split_a_sentence",
+            "request": "launch",
+            "mainClass": "string.split_a_sentence",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "start_letter_to_upper",
+            "request": "launch",
+            "mainClass": "string.start_letter_to_upper",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "stjava",
+            "request": "launch",
+            "mainClass": "string.stjava",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "string_to_binary",
+            "request": "launch",
+            "mainClass": "string.string_to_binary",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "swap_a_string_without_third_variable",
+            "request": "launch",
+            "mainClass": "string.swap_a_string_without_third_variable",
+            "projectName": "java learn_a0cdc498"
+        },
+        {
+            "type": "java",
+            "name": "toggle",
+            "request": "launch",
+            "mainClass": "string.toggle",
+            "projectName": "java learn_a0cdc498"
+        }
+    ]
+}
